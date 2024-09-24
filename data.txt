@@ -1,0 +1,119 @@
+1
+Coy: ALPHA
+Full Name: LI PENG
+HP No.: 98998709
+Full IC: G2318201M
+Vehicle No.: PC8858J
+Date & Time of entry: 2509 0030h
+2
+Coy: ALPHA
+Full Name: XI ZHI GANG
+HP No.: 89339769
+Full IC: G8230848U
+Vehicle No.: PC8241M
+Date & Time of entry: 2509 0030h
+3
+Coy: ALPHA
+Full Name: RIZUAN
+HP No.: 88929128
+Full IC: S8306210Z
+Vehicle No.: PC8817C
+Date & Time of entry: 2509 0030h
+4
+Coy: ALPHA
+Full Name: CHEN LIJUN 
+HP No.: 83187755
+Full IC: G3305092K
+Vehicle No.: PC8050Y
+Date & Time of entry: 2509 0030h
+5
+Coy: BRAVO
+Full Name: CAO YANG
+HP No.: 87970949
+Full IC: G5377983U
+Vehicle No.: PA50K
+Date & Time of entry: 2509 0030h
+6
+Coy: BRAVO
+Full Name: XU WEI DONG  
+HP No.: 98338023
+Full IC: G5910232Q
+Vehicle No.: PD7878C
+Date & Time of entry: 2509 0030h
+7
+Coy: BRAVO
+Full Name: ZHENG RUIFENG
+HP No.: 86716261
+Full IC: G2796811U
+Vehicle No.: PC4981L
+Date & Time of entry: 2509 0030h
+8
+Coy: BRAVO
+Full Name: CHEN GANG
+HP No.: 80676457
+Full IC: G8308009X
+Vehicle No.: PC5722L
+Date & Time of entry: 2509 0030h
+9
+Coy: CHARLIE
+Full Name: SETHU MUTHU
+HP No.: 98360325
+Full IC: F7397079L 
+Vehicle No.: PC8920L
+Date & Time of entry: 2509 0030h
+10
+Coy: CHARLIE
+Full Name: XIONG LIGANG
+HP No.: 82131020
+Full IC: G5450068N
+Vehicle No.: PC7868L
+Date & Time of entry: 2509 0030h
+11
+Coy: CHARLIE
+Full Name: PON DURAI SELVIN
+HP No.: 92727079
+Full IC: G7647083P
+Vehicle No.: PC7866S
+Date & Time of entry: 2509 0030h
+12
+Coy: CHARLIE
+Full Name: ZHANG DAWEI
+HP No.: 90143399
+Full IC: G2656451X
+Vehicle No.: PD117L
+Date & Time of entry: 2509 0030h
+13
+Coy: SUPPORT
+Full Name: BASKAR
+HP No.: 97151571
+Full IC: G7463175X
+Vehicle No.: PC4444X
+Date & Time of entry: 2509 0030h
+14
+Coy: SUPPORT
+Full Name: JUNAIDI
+HP No.: 96640941
+Full IC: S7527115H
+Vehicle No.: PC8585X
+Date & Time of entry: 2509 0030h
+15
+Coy: SUPPORT
+Full Name: MINSWEE
+HP No.: 93492782
+Full IC: G6341913W
+Vehicle No.: PD559U
+Date & Time of entry: 2509 0030h
+16
+Coy: SUPPORT
+Full Name: WANG WEIGUO 
+HP No.: 85100671
+Full IC: G6473115M
+Vehicle No.: PC8911H
+Date & Time of entry: 2509 0030h
+17
+Coy: HQ
+Full Name: ZHANG JIE
+HP No.: 82855133
+Full IC: G2179787T
+Vehicle No.: PC9696C
+Date & Time of entry: 2509 0030h
